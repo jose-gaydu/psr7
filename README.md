@@ -1,4 +1,4 @@
-# PSR-7 Message Implementation
+# PSR-7 Message Implementation updated by José Gaydu 
 
 This repository contains a full [PSR-7](http://www.php-fig.org/psr/psr-7/)
 message implementation, several stream decorators, and some helpful
