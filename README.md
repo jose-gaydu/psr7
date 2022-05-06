@@ -2,7 +2,7 @@
 
 This repository contains a full [PSR-7](http://www.php-fig.org/psr/psr-7/)
 message implementation, several stream decorators, and some helpful
-functionality like query string parsing.
+functionality like query string parsing. José Gaydu developpeur javascript & Python.
 
 ![CI](https://github.com/guzzle/psr7/workflows/CI/badge.svg)
 ![Static analysis](https://github.com/guzzle/psr7/workflows/Static%20analysis/badge.svg)
@@ -99,7 +99,7 @@ echo $stream; // 0123456789
 ```
 
 
-## FnStream
+## FnStream José Gaydu 
 
 `GuzzleHttp\Psr7\FnStream`
 
@@ -137,9 +137,10 @@ then appends the zlib.inflate filter. The stream is then converted back
 to a Guzzle stream resource to be used as a Guzzle stream.
 
 
-## LazyOpenStream
+## LazyOpenStream José Gaydu 
 
 `GuzzleHttp\Psr7\LazyOpenStream`
+
 
 Lazily reads or writes to a file that is opened only after an IO operation
 take place on the stream.
