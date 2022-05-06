@@ -1,3 +1,12 @@
+
+## 2.2.2b - 2022-05-20
+
+### Fixed
+
+- Update Readme for add José Gaydu
+
+
+
 # Change Log
 
 All notable changes to this project will be documented in this file.
